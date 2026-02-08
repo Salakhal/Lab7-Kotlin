@@ -1,5 +1,4 @@
-# Kotlin Nullability Lab 🧪
-
+ # Lab 7 — Kotlin Nullability : !! et ?:
 Ce projet fait partie du cours **Fondamentaux de la programmation en Kotlin**. Il explore les concepts de sécurité contre la nullité (Null Safety).
 
 
@@ -16,3 +15,4 @@ Le programme permet de tester trois comportements :
 2. **Crash volontaire** : Entrer un ID inexistant (ex: `999`) pour observer une `NullPointerException` causée par l'opérateur `!!`.
 3. **Gestion d'erreur propre** : Entrer un nom inexistant pour voir l'opérateur `?:` renvoyer "the student is not found".
 
+<img width="1255" height="231" alt="image" src="https://github.com/user-attachments/assets/714398f5-0bd4-416f-a84c-3ecf5daec9dc" />
